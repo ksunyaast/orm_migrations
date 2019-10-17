@@ -1,0 +1,2 @@
+django-debug-toolbar
+Django==2.1.5
